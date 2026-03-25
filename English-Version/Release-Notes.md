@@ -113,3 +113,38 @@ Implemented minor improvements, including updating screenshots to reflect the la
 ------------
 
 </details>
+
+<details>
+  <summary>12-March-2026</summary>
+
+## Release Date : 12-March-2026
+
+### Summary of Changes
+
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Udated the instruction for the minor typo mistakes and improve clearity.
+
+- Screenshots were updated to reflect the better clearity in the following steps:
+  - Exercise 3 - Task 3 > Step 5
+  - Exercise 3 - Task 4 > Step 3
+
+### Screenshot Updates
+
+- Only updated the minor instruction to improve clearity.
+
+### Testing Notes
+
+- **Testing Date**: 12-March-2026
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
