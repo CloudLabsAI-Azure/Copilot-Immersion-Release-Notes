@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>28-April-2026</summary>
+
+## Release Date : 28-April-2026
+
+### Summary of Changes
+
+Revised the lab instructions to align with the updated workflow and refreshed the guide with screenshots reflecting the latest UI. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Updated Exercise 1 - Task 1 -> point 4, added new screenshot and instructions
+- Updated Exercise 2 - Task 1 -> added new screenshots and instructions for the Powerpoint
+- Updated Exercise 3 - Task 1 -> added new screenshots and instructions for the Powerpoint, Task 3, 4 -> screenshot updates to reflect UI changes
+- Updated Exercise 4 - Task 1 -> added new screenshots and instructions for the updates in Powerpoint
+
+### Screenshot Updates
+
+Screenshots were updated to reflect the latest UI in the following steps:
+
+- Updated screenshots across all exercises to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-28
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+
+</details>
+
+<details>
   <summary>20-March-2026</summary>
 
 ## Release Date : 20-March-2026
