@@ -28,7 +28,9 @@ Implemented minor improvements, including updating screenshots to reflect the la
 
 ### Content Changes
 
-- Updated Exercise 4 – Task 3 with new instructions aligned to the latest agent creation in sharepoint.
+- Exercises 2, 3, and 4 - Updated Task 1 instructions to align with the new UI in Powerpoint Portal.
+- Exercise 3 – Updated Task 3 instructions to align with the new UI for agent creation steps.
+- Exercise 6 – Task 2 – Updated instructions to align with the new UI in Powerpoint Portal.
 
 ### Screenshot Updates
 
@@ -36,11 +38,8 @@ Screenshots were updated to reflect the latest UI in the following steps:
 
 - Exercise 1 – Task 1 – Step 4
 - Exercise 1 – Task 2 – Step 8 and 12
-- Exercises 2, 3, and 4 - Updated Task 1 instructions to align with the new UI in Powerpoint Portal.
-- Exercise 3 – Updated Task 3 instructions to align with the new UI for agent creation steps.
 - Exercise 4 – Task 3, updated few screenshots aligned to the latest UI.
 - Exercise 5 – Task 1 – updated few screenshots aligned to the latest UI.
-- Exercise 6 – Task 2 – Updated instructions to align with the new UI in Powerpoint Portal.
 
 ### Testing Notes
 
