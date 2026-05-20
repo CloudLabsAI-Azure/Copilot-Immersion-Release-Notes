@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>07-May-2026</summary>
+
+## Release Date : 07-May-2026
+
+### Summary of Changes
+
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Exercises 2, 3, and 4 - Updated Task 1 instructions to align with the new UI in Powerpoint Portal.
+- Exercise 3 – Updated Task 3 instructions to align with the new UI for agent creation steps.
+- Exercise 6 – Task 2 – Updated instructions to align with the new UI in Powerpoint Portal.
+
+### Screenshot Updates
+
+Screenshots were updated to reflect the latest UI in the following steps:
+
+- Exercise 1 – Task 1 – Step 4
+- Exercise 1 – Task 2 – Step 8 and 12
+- Exercise 4 – Task 3, updated few screenshots aligned to the latest UI.
+- Exercise 5 – Task 1 – updated few screenshots aligned to the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-07
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
+
+<details>
   <summary>03-February-2026</summary>
 
 ## Release Date : 03-February-2026
