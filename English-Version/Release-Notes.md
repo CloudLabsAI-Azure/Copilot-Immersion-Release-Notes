@@ -18,238 +18,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>07-May-2026</summary>
 
-## Release Date : 07-May-2026
+## Release Date : 18-May-2026
 
 ### Summary of Changes
 
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+Implemented minor improvements across the lab by accommodating the received feedback, updating screenshots to reflect the latest UI changes, refining instructions for better clarity and precision, and removing unnecessary or repeated steps to improve the overall learner experience.
 
 ### Infrastructure Changes
+- No infrastructure changes were required as part of this release.
 
 ### Content Changes
 
-- Exercises 2, 3, and 4 - Updated Task 1 instructions to align with the new UI in Powerpoint Portal.
-- Exercise 3 – Updated Task 3 instructions to align with the new UI for agent creation steps.
-- Exercise 6 – Task 2 – Updated instructions to align with the new UI in Powerpoint Portal.
+- Improved multiple instructions across the lab for better readability and navigation.
+- Removed redundant and repeated steps to streamline the lab flow.
 
 ### Screenshot Updates
 
 Screenshots were updated to reflect the latest UI in the following steps:
 
-- Exercise 1 – Task 1 – Step 4
-- Exercise 1 – Task 2 – Step 8 and 12
-- Exercise 4 – Task 3, updated few screenshots aligned to the latest UI.
-- Exercise 5 – Task 1 – updated few screenshots aligned to the latest UI.
+- Exercise 1 – Task 2 – Step 1
+- Some other Screenshot accross the lab
 
 ### Testing Notes
 
-- **Testing Date**: 2026-05-07
+- **Testing Date**: 18-may-2026
 
 ### Testing Scope 
 
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>03-February-2026</summary>
-
-## Release Date : 03-February-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Updated Exercise 4 – Task 3 with new instructions aligned to the latest agent creation in sharepoint.
-
-### Screenshot Updates
-
-Screenshots were updated to reflect the latest UI in the following steps:
-- Exercise 1 – Task 1 & 2 – Step 2
-- Exercise 2 – Task 2 – Step 4
-- Exercise 3 – Task 3
-- Exercise 4 – Task 3, updated few screenshots aligned to the latest UI.
-- Exercise 6 – Task 3 – Step 2 & 4
-### Testing Notes
-
-- **Testing Date**: 2026-02-04
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>21-February-2026</summary>
-
-## Release Date : 21-February-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Udated the instruction and added the additonal steps in Exercise 5 - Task 1 step 35 & step 36
-
-### Screenshot Updates
-
-Screenshots were updated to reflect the latest UI in the following steps:
-- Exercise 1 – Task 1 & Task 2 Step 3, Step 2
-- Exercise 5 - Task 2
-
-### Testing Notes
-
-- **Testing Date**: 21-Feb-2026
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>05-March-2026</summary>
-
-## Release Date : 05-March-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Udated the instruction for the minor typo mistakes and improve clearity.
-
-### Screenshot Updates
-
-- Only updated the minor instruction to improve clearity.
-
-### Testing Notes
-
-- **Testing Date**: 05-March-2026
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>12-March-2026</summary>
-
-## Release Date : 12-March-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Udated the instruction for the minor typo mistakes and improve clearity.
-
-- Screenshots were updated to reflect the better clearity in the following steps:
-  - Exercise 3 - Task 3 > Step 5
-  - Exercise 3 - Task 4 > Step 3
-
-### Screenshot Updates
-
-- Only updated the minor instruction to improve clearity.
-
-### Testing Notes
-
-- **Testing Date**: 12-March-2026
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>27-March-2026</summary>
-
-## Release Date : 27-March-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Udated the minor instruction to improve clearity.
-
-### Screenshot Updates
-
-- Only updated the minor instruction to improve clearity.
-
-### Testing Notes
-
-- **Testing Date**: 27-March-2026
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-</details>
-
-<details>
-  <summary>09-April-2026</summary>
-
-## Release Date : 09-April-2026
-
-### Summary of Changes
-
-Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
-
-### Infrastructure Changes
-
-### Content Changes
-
-- Updated the minor instruction to improve clearity and to align with latest UI updates.
-
-### Screenshot Updates
-
-- Screenshots were updated to reflect the better clearity in the following steps:
-  - **Exercise 1** - 4 screenshots updates in Task 1 and Task 2 combined
-  - **Exercise 2** - 2 screenshots updates in Task 3 
-  - **Exercise 3** - 6 screenshots updates in Task 2, Task 3 and Task 4 combined
-  - **Exercise 4** - 3 screenshots updates in Task 2 and Task 3 combined
-  - **Exercise 5** - 3 screenshots updates in Task 1 and Task 2 combined
-  - **Exercise 6** - 4 screenshots updates in Task 4, Task 5 and Task 6 combined.
-
-### Testing Notes
-
-- **Testing Date**: 09-April-2026
-
-### Testing Scope 
-
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+- Performed end-to-end validation of the lab.
+- Verified lab flow continuity, content accuracy, updated instructions, and screenshot alignment with the latest UI experience.
 
 ------------
 
