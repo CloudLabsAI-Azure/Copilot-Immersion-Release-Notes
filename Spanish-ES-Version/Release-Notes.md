@@ -16,34 +16,30 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>11-March-2026</summary>
+  <summary>28-May-2026</summary>
 
-## Release Date : 11-March-2026
+## Release Date : 29-May-2026
 
 ### Summary of Changes
 
-Updated the lab instructions to align with the revised workflow, incorporated screenshots reflecting the latest UI, and validated the lab by successfully completing a full end-to-end execution.
+Implemented enhancements across the lab, updated screenshots to align with the latest UI changes, refined instructions for improved clarity and accuracy, and removed redundant steps to enhance the overall learner experience.
 
 ### Infrastructure Changes
 
 ### Content Changes
 
-- Added environment setup instructions to the Getting Started page.
-- Updated Exercise 1 - Task 1, 2 & 3 with new instructions, prompt and screenshots.
-- Updated Task 1 instructions in Exercises 2, 3, and 4 to align with the current lab workflow.
-- Added additional notes to Exercise 3 – Task 2 step 4 and Task 3 to improve clarity for agent creation steps.
-- Updated Exercise 4 – Task 3 with instructions aligned to the latest agent creation process in SharePoint.
-- Revised Task 1 and Task 4 in Exercises 5 and 6 to match the updated UI in the Microsoft Copilot Studio portal.
-- Added additional steps in Exercise 6, Task 2, Step 4 for uploading a document in PowerPoint.
+- Improved and clarified multiple instructions across the lab to enhance readability and navigation.
+- Removed redundant and repetitive steps to streamline the overall lab flow.
+- Added validation steps to the lab guide.
 
 ### Screenshot Updates
 
 Screenshots were updated to reflect the latest UI in the following steps:
-- Updated screenshots across all exercises to reflect the latest UI and replaced any blurred or unclear images.
+- Updated screenshots across all exercises to reflect the latest UI, replaced blurred or unclear images, and added borders to images where needed to improve visibility and consistency.
 
 ### Testing Notes
 
-- **Testing Date**: 11-March-2026
+- **Testing Date**: 29-May-2026
 
 ### Testing Scope 
 
