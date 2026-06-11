@@ -16,40 +16,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>29-April-2026</summary>
+  <summary>10-June-2026</summary>
 
-## Release Date : 29-April-2026
+## Release Date : 10-June-2026
 
 ### Summary of Changes
 
-Revised the lab instructions to align with the updated workflow and refreshed the guide with screenshots reflecting the latest UI. Successfully validated the lab by completing an end-to-end execution.
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
 
 ### Infrastructure Changes
+- No infrastructure changes were required as part of this release.
 
 ### Content Changes
 
-- Updated Exercise 1 - Task 1, 2 & 3 with new instructions, prompt and screenshots.
-- Updated Task 1 instructions in Exercises 2, 3, and 4 to align with the new UI in Powerpoint Portal.
-- Updated Exercise 3 – Task 2 step 2 instructions and added notes in Task 3 to improve clarity for agent creation steps.
-- Updated Exercise 4 – Task 3 with instructions aligned to the latest agent creation process in SharePoint.
-- Revised Task 1 and Task 4 in Exercises 5 and 6 to match the updated UI in the Microsoft Copilot Studio portal.
-- Updated Exercise 6, Task 2 instructions and content to align with the new UI in Powerpoint Portal.
+- Improved multiple instructions across the lab for better readability and navigation.
+- Removed redundant and repeated steps to streamline the lab flow.
 
 ### Screenshot Updates
 
 Screenshots were updated to reflect the latest UI in the following steps:
 
-- Updated screenshots across all exercises to reflect the latest UI and replaced blurred or unclear images.
+- Updated all the Screenshot accross the lab as per our standards
 
 ### Testing Notes
 
-- **Testing Date**: 2026-04-29
+- **Testing Date**: 10-June-2026
 
 ### Testing Scope 
 
-- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
-
-------------
-
-
-</details>
+- Performed end-to-end validation of the lab.
+- Verified lab flow continuity, content accuracy, updated instructions, and screenshot alignment with the latest UI experience.
